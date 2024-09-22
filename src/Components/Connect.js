@@ -22,7 +22,6 @@ const Connect = () => {
   return (
     <section className="section" id="connect">
       <div>
-        <h1 style={{ color: '#f7c14d' }}>Connect</h1>
         <p className="lead">Click here to connect:</p>
         <br/>
       <br/>

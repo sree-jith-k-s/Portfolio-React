@@ -4,7 +4,7 @@ import { achievements } from './updates.js';
 const Achievements = () => {
   return (
     <div id='Achievements'>
-      <h2 style={styles.heading}><b>Achievements</b></h2>
+      <h2 style={styles.heading}><b>Connect</b></h2>
       <div className="achievements-container">
         {achievements.map((achievement, index) => (
           <div key={index} className="achievement-card">

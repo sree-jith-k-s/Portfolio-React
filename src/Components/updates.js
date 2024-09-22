@@ -3,10 +3,10 @@ import img2 from '../assets/gobetween.jpg';
 // import img3 from '../assets/Tourist-destinations.jpeg';
 // import img4 from '../assets/ED-Book.jpeg';
 // import img5 from '../assets/Baby-Care.png';
-import img6 from '../assets/python internship.png';
-import img7 from '../assets/clound computing.png';
-import img8 from '../assets/python programming.png';
-import img9 from '../assets/jsp+android.png';
+// import img6 from '../assets/python internship.png';
+// import img7 from '../assets/clound computing.png';
+// import img8 from '../assets/python programming.png';
+// import img9 from '../assets/jsp+android.png';
 
 // listing my skills here
 const skills = [
@@ -93,10 +93,10 @@ const projects = [
 
 // Listing my Achievements here
 const achievements = [
-    { img: img6, details: 'Completed 3 month Internship from INMAKES INFOTECH.' },
-    { img: img7, details: 'Completed Cloud computing and Cyber Security course from GLOBAL INDIA TECHNO HUB' },
-    { img: img8, details: 'Completed Python Programming course from GLOBAL INDIA TECHNO HUB' },
-    { img: img9, details: 'Completed JSP + ANDROID course from PROGRESSIVE SOFTWARE SOLUTIONS AND TRAINING' },
+    // { img: img6, details: 'Completed 3 month Internship from INMAKES INFOTECH.' },
+    // { img: img7, details: 'Completed Cloud computing and Cyber Security course from GLOBAL INDIA TECHNO HUB' },
+    // { img: img8, details: 'Completed Python Programming course from GLOBAL INDIA TECHNO HUB' },
+    // { img: img9, details: 'Completed JSP + ANDROID course from PROGRESSIVE SOFTWARE SOLUTIONS AND TRAINING' },
   ];
 
 export { skills, timelineData, projects, achievements };
